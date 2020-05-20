@@ -26,8 +26,8 @@ SECRET_KEY = 'ed@#c#8dg4ffiwqln@(-%0kgo=fu(*r3-_@yo&c3n3^bh&w0-t'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    ".ap-northeast-2.compute.amazonaws.com",
     ".coffeeisventi.site",
+    ".ap-northeast-2.compute.amazonaws.com",
 ]
 
 
